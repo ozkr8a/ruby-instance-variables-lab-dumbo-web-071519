@@ -1,7 +1,7 @@
 
 
 class Dog
-  def name=(dog_name)
+  def name=(dog_name) #why does there have to be no spaces
     @this_dogs_name = dog_name
   end
   
